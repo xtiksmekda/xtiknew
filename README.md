@@ -16,7 +16,7 @@ X-TIK Share : https://www.xtikshare.my.id/
 
 ==========================================================
 
-Untuk informasi lebih lanjut, hubungi e-mail : info@xtikgeneration.my.id
+Untuk informasi lebih lanjut, hubungi e-mail : info@xtiksmkn2pwk.my.id
 
 ==========================================================
 
