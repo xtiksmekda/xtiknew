@@ -1,4 +1,4 @@
-Welcome to X-TIK SMK Negeri 2 Purwakarta
+Welcome to Github X-TIK SMK Negeri 2 Purwakarta
 
 Ini adalah source code website X-TIK SMK Negeri 2 Purwakarta yang mana source code ini berasal dari free-css.com dan dimodifikasi ulang oleh X-TIK SMK Negeri 2 Purwakarta. Kamu bisa mendownload source code ini dari repository ini atau bisa mendownload dari sumber nya langsung.
 
