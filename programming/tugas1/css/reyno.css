@@ -1,0 +1,28 @@
+body{
+    background-image: url('../images/1325121.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-attachment: fixed;   
+}
+  h1 {
+    text-align: center;
+    font-family: 'Kavoon', sans-serif;
+    font-size: 2.5em;
+    color: white;
+  }
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+
+.ig:hover{
+    background-color: #C13584;
+}
+.git:hover{
+    background-color: #4078c0;
+}
