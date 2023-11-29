@@ -6,7 +6,7 @@ Sumber : https://www.free-css.com/free-css-templates/page288/global
 
 ==========================================================
 
-Landing : https://landing.xtiksmkn2pwk.my.id/
+Landing : https://landing.xtiksmekda.biz.id/
 
 Official website : https://www.xtiksmekda.biz.id/
 
