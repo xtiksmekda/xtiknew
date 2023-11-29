@@ -8,7 +8,7 @@ Sumber : https://www.free-css.com/free-css-templates/page288/global
 
 Landing : https://landing.xtiksmkn2pwk.my.id/
 
-Official website : https://www.xtiksmkn2pwk.my.id/
+Official website : https://www.xtiksmekda.biz.id/
 
 Second website : https://www.xtikgeneration.my.id/
 
